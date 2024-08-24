@@ -1,0 +1,27 @@
+.custom-button {
+  width: 100px;
+  height: 50px;
+  border-radius: 10px;
+  border: none;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  margin: 0px 10px 0px 10px;
+  width: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.submit-button {
+  height: 50px;
+  border-radius: 10px;
+  border: none;
+  background-color: rgb(13, 189, 243);
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  margin: 0px 10px 0px 10px;
+}
